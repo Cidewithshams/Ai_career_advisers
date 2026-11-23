@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/16GOQ-iso_zUdhD7KzC-lT1r6QnUm_9xd
 """
 
-!pip install -q gradio groq
+
 
 import gradio as gr
 import json
